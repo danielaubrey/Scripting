@@ -1,0 +1,7 @@
+Syntax pip install [module] --proxy http://[USER]:[PASSWORD]@[PROXY]:[PORT]
+
+Example: 
+
+pip install [module] --proxy http://test-user:1Password`))`0768@proxy:80
+
+Tip: In windows Use `` to escape special characters
